@@ -23,6 +23,8 @@ import json
 from pathlib import Path
 from typing import List
 
+# reference: https://github.com/idotan286/BiologicalTokenizers/blob/main/train_tokenizer_bert.py#L208
+
 ###########################################
 # Configuration and Initialization
 ###########################################
